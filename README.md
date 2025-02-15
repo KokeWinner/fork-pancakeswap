@@ -1,7 +1,23 @@
-# 🥞 Pancake Frontend
+# 🥞 PancakeSwap
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bebf1a3-be7b-4165-afd1-446256acd5e3/deploy-status)](https://app.netlify.com/sites/pancake-prod/deploys)
+A decentralized exchange (DEX) forked from PancakeSwap, optimized for BSC with enhanced features and customizations.
 
-This project contains the main features of the pancake application.
+## 🌟 Key Features
 
-If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
+- 🔄 Automated Market Maker (AMM)
+- 💰 Yield Farming & Staking
+- 🎲 Prediction Markets
+- 🏊‍♂️ Liquidity Pools
+- 🎯 Token Swapping
+- 🔒 Enhanced Security Features
+
+## 🛠 Technical Stack
+
+- **Framework:** React, TypeScript
+- **Blockchain:** BSC
+- **Smart Contracts:** Solidity
+- **Testing:** Jest
+- **Frontend:** Next.js
+- **Web3 Integration:** Web3.js/Ethers.js
+
+## 📦 Installation
